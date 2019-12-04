@@ -9,4 +9,4 @@ jupyter notebook
 
 ## Ordem recomendada
 
-1. [Tipos básicos em Python](./Tipos básicos em Python.ipynb)
+1. [Tipos básicos em Python](Tipos básicos em Python.ipynb)
